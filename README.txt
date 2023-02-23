@@ -4,7 +4,7 @@ Authors: Bert Lenaerts & Matty Demont
 
 Posted on May, 2022
 
-Suggested reference: Lenaerts, B. 2022. <github.com/BertLenaerts/DALYs>
+Suggested reference: Lenaerts, B. 2022. <github.com/BertLenaerts/Lenaerts-and-Demont-2021-Global-Food-Security>
 
 #######################################
 
